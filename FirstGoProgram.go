@@ -1,7 +1,7 @@
 /* This source file is written in Go Language. This file creates a
  * linked list and adds new members/nodes to it.
  * This is now uploaded to remote repository name "FirstGitRepo"*/
-
+/* Hello from Sushil. This is on new branch "newbranch"*/
 package main
 
 import "fmt"
