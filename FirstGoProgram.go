@@ -1,7 +1,7 @@
 /* This source file is written in Go Language. This file creates a
  * linked list and adds new members/nodes to it.
  * This is now uploaded to remote repository name "FirstGitRepo"*/
-/* Hello from Sushil. This is on new branch "newbranch". Trying git pull command. 1st attempt worked successfully */
+/* Hello from Sushil. I want a different message */
 package main
 
 import "fmt"
