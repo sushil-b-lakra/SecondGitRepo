@@ -1,7 +1,7 @@
 /* This source file is written in Go Language. This file creates a
  * linked list and adds new members/nodes to it.
  * This is now uploaded to remote repository name "FirstGitRepo"*/
-
+/* Hello from Sushil. Again changing the message here - I need new message to learn Git */
 package main
 
 import "fmt"
@@ -15,6 +15,7 @@ func main() {
 
 	var nodeptr *MyNode
 	//nodeptr := &MyNode{32, nil}
+	//Linked List Code
 
 	fmt.Println("Before Adding Node:")
 	nodeptr.print()
