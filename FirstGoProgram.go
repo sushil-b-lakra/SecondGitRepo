@@ -15,6 +15,7 @@ func main() {
 
 	var nodeptr *MyNode
 	//nodeptr := &MyNode{32, nil}
+	//Linked List Code
 
 	fmt.Println("Before Adding Node:")
 	nodeptr.print()
